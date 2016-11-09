@@ -37,4 +37,8 @@ public class Person {
         System.out.println("皮鞋");
     }
 
+    public void show() {
+        System.out.println("装扮的" + mName);
+    }
+
 }
