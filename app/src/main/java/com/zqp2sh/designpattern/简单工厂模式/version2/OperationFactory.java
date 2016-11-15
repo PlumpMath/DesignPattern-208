@@ -5,7 +5,7 @@ package com.zqp2sh.designpattern.简单工厂模式.version2;
  * 时间 @2016年11月08日 21:09
  */
 
-public class OperationFactory {
+class OperationFactory {
     public static Operation createOperation(String flag) {
         Operation operation = null;
         switch (flag) {

@@ -1,4 +1,4 @@
-package com.zqp2sh.designpattern.简单工厂模式.version2;
+package com.zqp2sh.designpattern.工厂方法模式.version1;
 
 /**
  * 作者 @sh2zqp
